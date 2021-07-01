@@ -1,5 +1,7 @@
 # demo
 
+## vue-simple-uploader在原有的基础上加上了MD5状态，安装好依赖后，请到https://github.com/XJLZ/vue-uploader下载vue-uploader.js和vue-uploader.js.map替换原来的即可
+
 > A Vue.js project
 
 ## Build Setup
