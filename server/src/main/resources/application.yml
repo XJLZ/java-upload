@@ -1,0 +1,18 @@
+server:
+  port: 8989
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      max-request-size: 1000MB #最大请求文件的大小
+      max-file-size: 1000MB
+      file-size-threshold: 0
+  mvc:
+    throw-exception-if-no-handler-found: true
+  resources:
+    add-mappings: false
+  redis:
+    host: 127.0.0.1
+    port: 6379
+
+uploadFolder: D:\\uploadFiles\\

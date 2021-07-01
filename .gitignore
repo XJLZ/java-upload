@@ -1,0 +1,22 @@
+server/.idea/
+server/hydrobiologicasinica.iml
+server/target/
+server/log/
+
+web/.DS_Store
+web/node_modules
+web/dist/
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+web/test/unit/coverage
+web/test/e2e/reports
+web/selenium-debug.log
+
+# Editor directories and files
+web/.idea
+web/.vscode
+web/package-lock.json
+/.idea/
+/log/
+/server/*.iml
